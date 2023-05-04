@@ -29,14 +29,14 @@ $matches = [
 ];
 var_dump('ciao');
 
-foreach ($matches as $event) {
+/* foreach ($matches as $event) {
     foreach ($event as $key => $value) {
         //echo " $value \n" ; ?>
         <p> <?php $value ?>; </p> 
     };
     
-};
-?>
+};*/
+?> 
 
 <!DOCTYPE html>
 <html lang="en">
